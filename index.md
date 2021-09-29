@@ -31,4 +31,8 @@ This repository contains ELMER v2 reports for BRCA supervised and unsupervised a
 
 To view these reports please download the html files and open with Firefox or Google Chrome browsers.
 
-* [Link to supplemental material](https://github.com/tiagochst/ELMER_supplemental/raw/master/supplemental_files.zip)
+
+* [Link to supplemental material - Gdrive](https://drive.google.com/file/d/1JvVhqaI7R6DbPfD77CsakUTMgXCenK5z/view?usp=sharing)
+
+
+* [Link to supplemental material - Github](https://github.com/tiagochst/ELMER_supplemental/raw/master/supplemental_files.zip)
